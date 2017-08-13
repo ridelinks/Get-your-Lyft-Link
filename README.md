@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Send them a link!
 
-You can use the [editor on GitHub](https://github.com/ridelinks/get/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+No matter what else you do, there will always be a time you want to share info with some passengers. Some of us have found that sharing a link can be a good way to network, sell a product, or even exchange contact information for future rides with folks we meet on rides.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Network? Sell... what? Like most of us, you may have other aspirations professionally. Driving for Lyft can be awesome—even full time, but think about all the people you're meeting. Of course, not every single passenger is going to be someone you want to stay in contact with later. In fact, maybe only a small few will be, but sending those few a link to your contact info should be quick and easy, right?
 
 ### Markdown
 
