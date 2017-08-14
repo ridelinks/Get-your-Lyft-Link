@@ -2,23 +2,24 @@
 
 No matter what else you do, there will always be a time you want to share info with some passengers. Some of us have found that sharing a link can be a good way to network, sell a product, or even exchange contact information for future rides with folks we meet on rides.
 
-Network? Sell... what? Like most of us, you may have other aspirations professionally. Driving for Lyft can be awesome—even full time, but think about all the people you're meeting. Of course, not every single passenger is going to be someone you want to stay in contact with later. In fact, maybe only a small few will be, but sending those few a link to your contact info should be quick and easy, right?
+## Network? Sell... what? 
 
-### Markdown
+Like most of us, you may have other aspirations professionally. Driving for Lyft can be awesome—even full time, but think about all the people you're meeting. Of course, not every single passenger is going to be someone you want to stay in contact with later. In fact, maybe only a small few will be, but sending those few a link to your contact info should be quick and easy, right?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you're not selling something, you're missing out. 
+
+### Links about Lyft... help your passengers!
+
+You can easily share links about Lyft with passengers who aren't up to speed on how things work. Sure, they can search the help center and find the info on their own, but when you provide a link, you're adding value to their experience. How do you think tips happen? Oh, and they'll probably want to ride again with someone who provides a a better experience. 
 
 ```markdown
-Syntax highlighted code block
+Link to:
 
-# Header 1
-## Header 2
-### Header 3
+- Your contact info or "other business"
+- Affiliate or other online offers
+- How to book a ride with you!
 
-- Bulleted
-- List
-
-1. Numbered
+1. vCard System
 2. List
 
 **Bold** and _Italic_ and `Code` text
